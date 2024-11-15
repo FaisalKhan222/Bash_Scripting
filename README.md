@@ -22,7 +22,7 @@ Lightweight and fast
 To get started, you’ll need a Unix-like environment (Linux, macOS, WSL for Windows, etc.) with Bash installed. Most systems have Bash by default.
 
 Clone the repository:
-  git clone https://github.com/FaisalKhan222/Bash_scripts.git
+  git clone https://github.com/FaisalKhan222/Bash_Scripting.git
 
 Navigate to the scripts folder:
   cd bash-scripts
