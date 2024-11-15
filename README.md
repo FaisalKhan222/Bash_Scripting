@@ -3,12 +3,12 @@
 This repository contains a collection of useful Bash scripts for automating tasks, system administration, and solving common problems using the Linux/Unix shell.
 
 ## Table of Contents
-### Overview
-### Installation
-### Usage
-### Scripts
-### Contributing
-### Acknowledgements
+#### Overview
+#### Installation
+#### Usage
+#### Scripts
+#### Contributing
+#### Acknowledgements
 
 ## Overview
 This repository is a collection of useful Bash scripts designed to make your life easier when working with the Linux/Unix shell. It includes scripts for tasks such as file manipulation, system monitoring, backups, and more.
