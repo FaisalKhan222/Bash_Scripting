@@ -43,7 +43,7 @@ Some scripts may require specific arguments. To see how to use a script, run the
   ./script-name.sh --help
 
 ## Scripts
-Here are some examples of the scripts available in this repository:
+examples of the scripts available in this repository:
   i will add soon!!
 
 ## Contributing
