@@ -25,7 +25,7 @@ Clone the repository:
   git clone https://github.com/FaisalKhan222/Bash_Scripting.git
 
 Navigate to the scripts folder:
-  cd bash-scripts
+  cd Bash-Scripting
 
 Make the scripts executable (if they aren't already):
   chmod +x script-name.sh
